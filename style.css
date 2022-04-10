@@ -1,18 +1,19 @@
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Bebas Neue', cursive;
 }
 h1{
-    font-size: 40px;
+    font-size: 50px;
+
 }
 .name-highlight{
-    color: rgb(36, 226, 19);
+    color: brown;
 }
 .half-width{
     width: 40%;
-    float: left;
+    float:left;
     margin-left: 5%;
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 75%;
 }
